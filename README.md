@@ -1,11 +1,10 @@
-# CV-HTB
 # Monteur de réseaux électriques HTB
 
 ## Profil
-Monteur spécialisé dans les réseaux électriques haute tension.
+Monteur de lignes aériennes haute tension spécialisé dans la construction et la maintenance de réseaux électriques HTB.
 
-## Activités principales
-- Maintenance préventive des lignes HTB
+## Expérience
+- Maintenance préventive de réseaux électriques HTB
 - Construction de nouvelles lignes électriques
 - Assemblage et levage de pylônes
 - Déroulage de conducteurs
@@ -15,5 +14,8 @@ Monteur spécialisé dans les réseaux électriques haute tension.
 - 225 kV
 - 400 kV
 
-## Expérience
-Travaux sur réseaux électriques haute tension en environnement industriel.
+## Environnement de travail
+Expérience sur réseaux électriques en exploitation et en construction dans un environnement industriel.
+
+## Document
+CV complet disponible dans le dépôt (PDF).
